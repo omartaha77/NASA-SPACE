@@ -109,10 +109,12 @@ nav {
   background-position: center;
   height: 100%; /* Adjust this based on your desired height */
 }
+
+
 .slide p{
   padding: 0px;
   margin: 50px;
-  color: rgb(73, 151, 102);
+  color: cyan;
   line-height: 60px;
   font-size: 20px;
   font-weight: 800;
