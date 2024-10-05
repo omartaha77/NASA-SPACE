@@ -114,7 +114,13 @@ nav {
 .slide p{
   padding: 0px;
   margin: 50px;
-  color: cyan;
+  color: #e0fbff; /* Light Cyan */
+  font-size: 1.5em; /* Adjust size as needed */
+  font-weight: bold; /* Makes it stand out more */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); /* Adds depth and enhances readability */
+  background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent black for extra contrast */
+  padding: 10px 20px; /* Spacing around the text */
+  border-radius: 8px; /* Smoothens the edges */
   line-height: 60px;
   font-size: 20px;
   font-weight: 800;
